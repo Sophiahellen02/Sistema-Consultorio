@@ -63,8 +63,8 @@ Regras de negócio foram implementadas com constraints, gatilhos (triggers) e fu
 
 ## 🧠 Modelagem do Banco de Dados
 
-- [📘 Modelo Conceitual](Diagramas/ModeloConceitual.jpg)   
-- [🗂 Modelo Lógico](Diagramas/ModeloLógico.jpg) 
+- [📘 Modelo Conceitual](/Diagramas/Modelo%20Conceitual.jpg)   
+- [🗂 Modelo Lógico](/Diagramas/Modelo%20Lógico.jpg) 
 
 ---
 
@@ -133,7 +133,7 @@ SISTEMA-CONSULTORIO/
 - Dicionário de dados
 - Plano de testes
 
-[📝 Link para a documentação](Doc\SistemadeConsultório_Clínica.pdf)   
+[📝 Link para a documentação](/Doc/Sistema%20de%20Consultório_Clínica.pdf)   
 
 ---
 
