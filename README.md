@@ -63,8 +63,8 @@ Regras de negócio foram implementadas com constraints, gatilhos (triggers) e fu
 
 ## 🧠 Modelagem do Banco de Dados
 
-- [📘 Modelo Conceitual](Diagramas\Modelo_Conceitual.png)   
-- [🗂 Modelo Lógico](Diagramas\Modelo_Logico.png) 
+- [📘 Modelo Conceitual](Diagramas/ModeloConceitual.jpg)   
+- [🗂 Modelo Lógico](Diagramas/ModeloLógico.jpg) 
 
 ---
 
